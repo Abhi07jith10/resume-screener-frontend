@@ -1,16 +1,37 @@
-# React + Vite
+## Progress Recap
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Day 1: FastAPI + Git Setup
+- Set up the FastAPI project structure and configured the development environment.
+- Initialized a Git repository and established version control.
 
-Currently, two official plugins are available:
+### Day 2: Database Schema
+- Designed the database schema for candidates, jobs, and applications.
+- Connected the backend to the database using SQLAlchemy ORM.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### Day 3: CRUD APIs for Candidates & Jobs
+- Developed REST APIs for managing candidate records.
+- Implemented CRUD operations for job postings with input validation.
 
-## React Compiler
+### Day 4: Resume Upload + PDF Extraction
+- Added resume upload functionality with file validation.
+- Extracted text from uploaded PDF resumes for processing.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Day 5: LLM-Based Resume Scoring
+- Integrated an LLM to evaluate resumes against job descriptions.
+- Generated resume scores and feedback based on matching criteria.
 
-## Expanding the ESLint configuration
+### Day 6: Applications + Interview Slot Endpoints
+- Built APIs for job application management.
+- Created endpoints for scheduling and managing interview slots.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Day 7: React Frontend with Routing
+- Set up the React application with client-side routing.
+- Developed core pages and navigation components.
+
+### Day 8: Frontend Connected to Backend
+- Integrated the frontend with FastAPI REST APIs.
+- Implemented dynamic data fetching and API error handling.
+
+### Day 9: Applications Dashboard with Live Scoring UI
+- Built a dashboard to track applications and their status.
+- Displayed live resume scoring results through an interactive UI.
