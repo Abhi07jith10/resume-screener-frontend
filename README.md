@@ -46,4 +46,4 @@
 * Revamped the application's user interface using Tailwind CSS across all pages.
 * Improved design consistency, responsiveness, spacing, and overall visual experience.
 
--
+
