@@ -35,3 +35,15 @@
 ### Day 9: Applications Dashboard with Live Scoring UI
 - Built a dashboard to track applications and their status.
 - Displayed live resume scoring results through an interactive UI.
+
+## Day 10 – Interview Scheduler UI
+
+* Designed and implemented the Interview Scheduler interface for managing interview workflows.
+* Built a responsive UI with a clean layout to enhance usability and user experience.
+
+## Day 11 – Tailwind UI Overhaul
+
+* Revamped the application's user interface using Tailwind CSS across all pages.
+* Improved design consistency, responsiveness, spacing, and overall visual experience.
+
+-
